@@ -1,0 +1,13 @@
+.cars {
+    h2 {
+        color: $color-03;
+        font-size: $font-medium;
+    }
+    li {
+        color: $color-04;
+
+        a {
+            background-color: $color-05;
+        }
+    }
+}
